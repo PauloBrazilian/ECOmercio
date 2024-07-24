@@ -1,6 +1,6 @@
 # ECOmercio
 
-Bem-vindo à nossa loja de produtos eco-friendly! Oferecemos uma variedade de produtos sustentáveis, incluindo garrafas reutilizáveis, canudos de metal e produtos de limpeza sustentáveis. Além disso, fornecemos dicas e recursos sobre práticas de vida sustentável para ajudar você a fazer escolhas mais conscientes e amigas do meio ambiente.
+Bem-vindo à nossa loja de produtos eco-friendly! Oferecemos uma variedade de produtos sustentáveis, incluindo garrafas reutilizáveis, canudos de metal, produtos de limpeza sustentáveis e produtos orgânicos. Além disso, fornecemos dicas e recursos sobre práticas de vida sustentável para ajudar você a fazer escolhas mais conscientes e amigas do meio ambiente.
 
 ## Sumário
 
@@ -9,6 +9,7 @@ Bem-vindo à nossa loja de produtos eco-friendly! Oferecemos uma variedade de pr
   - [Garrafas Reutilizáveis](#garrafas-reutilizáveis)
   - [Canudos de Metal](#canudos-de-metal)
   - [Produtos de Limpeza Sustentáveis](#produtos-de-limpeza-sustentáveis)
+  - [Produtos Orgânicos](#produtos-orgânicos)
 - [Dicas de Vida Sustentável](#dicas-de-vida-sustentável)
 - [Contribuindo](#contribuindo)
 - [Contato](#contato)
@@ -37,6 +38,12 @@ Nosso objetivo é fornecer produtos de alta qualidade que ajudem a reduzir o imp
 - Embalagens recicláveis ou reutilizáveis.
 - Eficazes na limpeza e seguros para o meio ambiente.
 
+### Produtos Orgânicos
+
+- Alimentos cultivados sem pesticidas ou fertilizantes químicos.
+- Produtos de higiene pessoal feitos com ingredientes naturais.
+- Cosméticos livres de produtos químicos agressivos.
+
 ## Dicas de Vida Sustentável
 
 Além de oferecer produtos eco-friendly, queremos ajudar você a adotar um estilo de vida mais sustentável. Confira nossas dicas e recursos:
@@ -44,8 +51,6 @@ Além de oferecer produtos eco-friendly, queremos ajudar você a adotar um estil
 - **Reduza, Reutilize, Recicle**: Aprenda a reduzir o desperdício, reutilizar itens e reciclar adequadamente.
 - **Economia de Energia**: Dicas para reduzir o consumo de energia em casa.
 - **Consumo Consciente**: Como fazer escolhas de compra mais informadas e sustentáveis.
-
-Agradecemos por escolher nossos produtos e por apoiar práticas sustentáveis!
 
 ---
 
