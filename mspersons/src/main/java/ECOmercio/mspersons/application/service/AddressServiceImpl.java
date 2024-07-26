@@ -21,10 +21,10 @@ public class AddressServiceImpl implements AddressService {
         this.addressRepository = addressRepository;
     }
 
-    public ResponseEntity registerAddress(AddressDTO addressDTO) {
+    public ResponseEntity<String> registerAddress(AddressDTO addressDTO) {
         Address newAddress = entityMapper.addressDTOToAddress(addressDTO);
         addressRepository.save(newAddress);
 
-        return new ResponseEntity(HttpStatus.CREATED);
+        return new ResponseEntity<>("Address successfully created", HttpStatus.CREATED);
     }
 }
